@@ -12,3 +12,7 @@ add their name, and create a Pull Request.
 5. Commit, push, and open a PR
 
 I am changing something in README.md
+
+## License
+
+This project is licensed under the MIT License
